@@ -3,6 +3,11 @@ body {
   background-color: #f4f4f4;
   margin: 0;
   padding: 0;
+  background-image: url("./assets/img/mmm.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+
 }
 
 h1 {
